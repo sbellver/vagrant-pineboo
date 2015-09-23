@@ -45,5 +45,7 @@ Cambiando **../../Documents/git** por la ruta adecuada de tu sistema.
 Para acceder a pineboo es necesario contar con las **X**, por lo que se puede acceder a ellas mediante el virtualbox (user y pass **vagrant**) o mediante el comando 
 
 ```
-vagrant ssh -X
+vagrant ssh
+cd /git/pineboo
+./pineboo
 ``
