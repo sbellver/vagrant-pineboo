@@ -1,4 +1,4 @@
-# ${1:Vagrant pineboo}
+# Vagrant pineboo
 
 Este repo contiene la configuración de Vagrant para crear un sistema de desarrollo para [pineboo](https://github.com/deavid/pineboo)
 
