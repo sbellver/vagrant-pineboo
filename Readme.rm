@@ -1,4 +1,6 @@
-# Vagrant pineboo
+<snippet>
+  <content><![CDATA[
+# ${1:Vagrant pineboo}
 
 Este repo contiene la configuración de Vagrant para crear un sistema de desarrollo para [pineboo](https://github.com/deavid/pineboo)
 
@@ -48,4 +50,13 @@ Para acceder a pineboo es necesario contar con las **X**, por lo que se puede ac
 vagrant ssh
 cd /git/pineboo
 ./pineboo
-``
+```
+O bien mediante
+```
+ssh -X vagrant@10.0.0.20 (pass: vagrant)
+cd /git/pineboo
+./pineboo
+```
+]]></content>
+  <tabTrigger>readme</tabTrigger>
+</snippet>
