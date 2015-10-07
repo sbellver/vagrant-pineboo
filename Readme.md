@@ -1,5 +1,3 @@
-<snippet>
-  <content><![CDATA[
 # ${1:Vagrant pineboo}
 
 Este repo contiene la configuración de Vagrant para crear un sistema de desarrollo para [pineboo](https://github.com/deavid/pineboo)
@@ -57,6 +55,3 @@ ssh -X vagrant@10.0.0.20 (pass: vagrant)
 cd /git/pineboo
 ./pineboo
 ```
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
